@@ -1,0 +1,12 @@
+MTOW        label
+9299        weight [kg]
+0.35        center of gravity (%MAC)
+1.000       xcg [m]
+1.000       ycg [m]
+1.000       zcg [m]
+12875       ixx [kg m2]
+75674       iyy [kg m2]
+85552       izz [kg m2]
+0           ixy [kg m2]
+0           iyz [kg m2]
+1331        ixz [kg m2]
